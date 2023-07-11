@@ -14,3 +14,13 @@ ini nih file vb yang loe pada cari, ga susah coee, jadi gini :
 - Abistu OK dehh
 - Kalo tak da notif eror berarti kau dah selesai koneksikan
 - Tinggal kau koding je tu betul-betul.
+
+- Ohya buat nampilin tabel yang udah kita buat sebelumnya, pertama harus bikin dulu komponen data grid view
+- Abistu di pojok kanan data grid view ada kayak panah kecil
+- Nah pencet dah tu lalu Choose Data Source - Add Project Data Source - Database
+- Lalu Next
+- Data Set - Next
+- Pilih je sesuai database kau tu
+- Trus Next
+- Kau centang bagian tabel mana yang mau ditampilin
+- Abistu Finish
